@@ -1,0 +1,70 @@
+h1 {
+  font-size: 70pt;
+  font-weight: bold;
+}
+
+section {
+  border: 3px solid steelblue;
+
+  margin: 40px 25px;
+
+  float: right;
+  justify-content: center;
+  width: 52%;
+
+  display: grid;
+  grid-template-columns: repeat(2, 0.3fr);
+  gap: 30px;
+}
+
+div {
+  padding: 10px 15px;
+
+  width: 300px;
+  height: 100px;
+
+  background-color: #f0f0f0;
+
+  border: 1px solid #dfdfdf;
+  border-radius: 5px;
+
+  box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.116);
+}
+
+div h2 {
+  font-size: 25pt;
+}
+
+div span {
+  color: #00000081;
+  font-size: 23pt;
+}
+
+footer {
+  border: 3px solid steelblue;
+
+  color: #0000009f;
+  font-size: 11pt;
+  font-style: italic;
+  text-align: center;
+
+  margin-bottom: 10px;
+  height: 41px;
+  width: 100%;
+
+  position: absolute;
+  bottom: 0 
+}
+
+footer img {
+  width: 100px;
+  height: 41px;
+
+  float: left;
+
+  padding-bottom: 4px;
+}
+
+footer p {
+padding-top: 8px;
+}
