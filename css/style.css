@@ -1,27 +1,26 @@
 h1 {
-  font-size: 70pt;
+  padding: 20px;
+  font-size: 55pt;
   font-weight: bold;
 }
 
 section {
-  border: 3px solid steelblue;
-
-  margin: 40px 25px;
-
-  float: right;
+  margin: 25px 25px;
+  margin-top: 50px;
+  align-items: center;
   justify-content: center;
-  width: 52%;
+  width: 1185px;
 
   display: grid;
-  grid-template-columns: repeat(2, 0.3fr);
+  grid-template-columns: repeat(3, 0.3fr);
   gap: 30px;
 }
 
 div {
   padding: 10px 15px;
 
-  width: 300px;
-  height: 100px;
+  width: 350px;
+  height: 125px;
 
   background-color: #f0f0f0;
 
@@ -32,28 +31,37 @@ div {
 }
 
 div h2 {
-  font-size: 25pt;
+  font-size: 30pt;
 }
 
 div span {
   color: #00000081;
-  font-size: 23pt;
+  font-size: 30pt;
+}
+
+p#ast {
+  float: right;
+  margin: 35px 5px;
+  font-size: 10pt;
+  color: #00000081;
 }
 
 footer {
-  border: 3px solid steelblue;
+  background-color: #ffffff42;
 
   color: #0000009f;
   font-size: 11pt;
   font-style: italic;
   text-align: center;
 
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   height: 41px;
   width: 100%;
 
   position: absolute;
-  bottom: 0 
+  bottom: 0;
+
+  box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.116);
 }
 
 footer img {
@@ -62,9 +70,10 @@ footer img {
 
   float: left;
 
-  padding-bottom: 4px;
+  padding-left: 5px;
 }
 
 footer p {
-padding-top: 8px;
+  padding-top: 11px;
+  padding-right: 100px;
 }

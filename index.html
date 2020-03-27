@@ -7,8 +7,8 @@
   <link rel="stylesheet" href="./css/global.css">
   <title>Corona</title>
 </head>
-<body>
-  <h1>COVID-19 no Brasíl</h1>
+<body onload="api()">
+  <h1>COVID-19 no Brasil</h1>
 
   <section id="blocks">
     <div id="casos-totais">
@@ -37,13 +37,15 @@
     </div>
 
     <div id="casos-curados">
-      <h2>Casos curados</h2>
-      <span id="casos-curados-span">0</span>
+      <h2>Casos curados*</h2>
+      <span id="casos-curados-span">0</span><p id="ast">* casos divulgados</p>
     </div>
   </section>
 
   <footer>
-    <img src="./img/GitHub_Logo.png" alt="Github Logo" style="vertical-align: middle">
+    <a href="https://github.com/dlourennco" target="_blank">
+      <img src="./img/GitHub_Logo.png" alt="Github Logo" >
+    </a>
     <p>Fique em casa. Juntos lutamos para que esses números parem de crescer.</p>
   </footer>
 
