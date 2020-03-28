@@ -88,15 +88,17 @@ footer p {
     height: 200px;
   }
   footer {
+    padding-top: 30px;
+
     position: absolute;
     bottom: 0;
   }
   div h2 {
-    font-size: 40pt;
+    font-size: 55pt;
   }
   
   div span {
     color: #00000081;
-    font-size: 40pt;
+    font-size: 55pt;
   }
 }
