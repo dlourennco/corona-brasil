@@ -84,10 +84,19 @@ footer p {
     grid-template-columns: repeat(1, 0.3fr);
   }
   div {
-    width: 600px;
+    width: 800px;
+    height: 200px;
   }
   footer {
     position: absolute;
     bottom: 0;
+  }
+  div h2 {
+    font-size: 40pt;
+  }
+  
+  div span {
+    color: #00000081;
+    font-size: 40pt;
   }
 }
