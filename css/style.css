@@ -112,7 +112,7 @@ footer p {
     margin-top: 30px;
     font-size: 10pt;
 
-    position: absolute;
+    position: static;
     bottom: -30;
   }
 
