@@ -89,7 +89,7 @@ footer p {
   section {
     grid-template-columns: repeat(1, 0.3fr);
     margin-top: 20px;
-    padding-bottom: 300px;
+    padding-bottom: 30px;
   }
   div {
     width: 800px;
@@ -116,6 +116,6 @@ footer p {
     font-size: 10pt;
 
     position: absolute;
-    bottom: 0;
+    bottom: -30;
   }
 }
