@@ -81,7 +81,7 @@ footer p {
 
 @media only screen and (max-width: 1100px) {
   h1 {
-    font-size: 55pt;
+    font-size: 55px;
   }
   
   section {
@@ -94,16 +94,16 @@ footer p {
   }
 
   div h2 {
-    font-size: 55pt;
+    font-size: 55px;
   }
   
   div span {
     color: #00000081;
-    font-size: 55pt;
+    font-size: 55px;
   }
 
   p#ast {
-    font-size: 25pt;
+    font-size: 25px;
   }
 
   footer {
