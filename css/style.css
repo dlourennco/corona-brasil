@@ -90,17 +90,17 @@ footer p {
     margin-top: 20px;
   }
   div {
-    width: 350px;
+    width: 500px;
     height: 200px;
   }
 
   div h2 {
-    font-size: 55pt;
+    font-size: 35pt;
   }
   
   div span {
     color: #00000081;
-    font-size: 55pt;
+    font-size: 35pt;
   }
 
   p#ast {
@@ -115,7 +115,7 @@ footer p {
   }
 
   footer p {
-    font-size: 15pt;
+    font-size: 10pt;
   }
 
   footer img {
