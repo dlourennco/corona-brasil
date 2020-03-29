@@ -1,6 +1,6 @@
 h1 {
   padding: 20px;
-  font-size: 55pt;
+  font-size: 55px;
   font-weight: bold;
 }
 
@@ -31,18 +31,18 @@ div {
 }
 
 div h2 {
-  font-size: 30pt;
+  font-size: 30px;
 }
 
 div span {
   color: #00000081;
-  font-size: 30pt;
+  font-size: 30px;
 }
 
 p#ast {
   float: right;
   margin: 35px 5px;
-  font-size: 10pt;
+  font-size: 10px;
   color: #00000081;
 }
 
@@ -50,7 +50,7 @@ footer {
   background-color: #ffffff42;
 
   color: #0000009f;
-  font-size: 11pt;
+  font-size: 11px;
   font-style: italic;
   text-align: center;
 
