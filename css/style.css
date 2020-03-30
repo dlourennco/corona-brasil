@@ -112,6 +112,10 @@ footer p {
     display: flex;
     flex-direction: column;
     justify-content: center;
+
+    width: 80px;
+
+    margin: 0 auto;
     position: static;
   }
 
