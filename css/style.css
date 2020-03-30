@@ -113,8 +113,9 @@ footer p {
     flex-direction: column;
     justify-content: center;
 
-    width: 80px;
+    height: 80px;
 
+    padding-top: 20px;
     margin: 0 auto;
     position: static;
   }
