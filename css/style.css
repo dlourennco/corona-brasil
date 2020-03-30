@@ -112,11 +112,13 @@ footer p {
   footer {
     display: flex;
     flex-direction: column;
+
     font-size: 20px;
     text-align: center;
     height: 80px;
-
+    background-color: transparent;
     box-shadow: 0;
+
     padding-top: 20px;
     margin: 0 auto;
     position: static;
