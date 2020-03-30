@@ -81,7 +81,6 @@ footer p {
 
 @media only screen and (max-width: 600px) {
   h1 {
-    padding-left: 60px;
     font-size: 55px;
     text-align: center;
   }
@@ -137,7 +136,6 @@ footer p {
   }
 
   footer p {
-    padding-left: 60px;
-    overflow: hidden;
+    width: 200px;
   }
 }
