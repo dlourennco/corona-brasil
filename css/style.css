@@ -133,7 +133,6 @@ footer p {
   }
 
   footer p {
-    line-height: 120px;
-    vertical-align: middle;
+    padding-left: 20px;
   }
 }
