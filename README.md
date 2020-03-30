@@ -1,3 +1,3 @@
 # COVID-19 no Brasil
 
-Um website que mostra dados divulgados do Coronavírus no Brasil utilizando a API do The Virus Tracker.
+Um website que mostra dados divulgados em tempo real do Coronavírus no Brasil, utilizando a API fornecida pelo [The Virus Tracker](https://thevirustracker.com/).
