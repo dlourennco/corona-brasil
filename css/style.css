@@ -120,9 +120,10 @@ footer p {
 
     font-size: 15px;
 
+    width: 320px;
     height: 140px;
 
-    box-shadow: none;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.116);
     margin-top: 20px;
     margin: 0 auto;
     position: static;
