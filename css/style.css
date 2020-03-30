@@ -102,6 +102,7 @@ footer p {
   }
   
   div span {
+    padding-top: 5px;
     color: #00000081;
     font-size: 40px;
   }
