@@ -111,5 +111,12 @@ footer p {
   footer {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    position: static;
+  }
+
+  footer img {
+    width: 200px;
+    height: 82px;
   }
 }
