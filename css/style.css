@@ -130,7 +130,9 @@ footer p {
   footer img {
     width: 200px;
     height: 82px;
+  }
 
-    margin-bottom: 20px;
+  footer p {
+    vertical-align: middle;
   }
 }
