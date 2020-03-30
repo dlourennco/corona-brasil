@@ -125,9 +125,7 @@ footer p {
   footer img {
     width: 200px;
     height: 82px;
-    
-    position: absolute;
-    bottom: 0;
+
     margin-bottom: 20px;
   }
 }
