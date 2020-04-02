@@ -1,4 +1,4 @@
-setInterval(api, 1000 );
+setInterval(api, 180000 );
 
 function api () {
   let proxy = 'https://cors-anywhere.herokuapp.com/'
