@@ -1,7 +1,8 @@
 setInterval(api, 1000 );
 
 function api () {
-  let apiUrl = 'https://thevirustracker.com/free-api?countryTotal=BR'
+  let proxy = 'https://cors-anywhere.herokuapp.com/'
+  let apiUrl = `${proxy}https://thevirustracker.com/free-api?countryTotal=BR`
 
   fetch(apiUrl)
     .then((response) => response.json())
