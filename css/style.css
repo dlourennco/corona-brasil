@@ -140,3 +140,8 @@ footer p {
     display: none;
   }
 }
+
+#error {
+  font-size: 12px;
+  margin-bottom: 20px;
+}
